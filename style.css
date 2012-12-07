@@ -34,3 +34,8 @@ footer{
 	font-size:18px;
 	font-weight:400;
 }
+
+a{
+  color:#fff;
+  text-decoration: none;
+}
